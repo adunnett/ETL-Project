@@ -1,0 +1,3 @@
+Database Name - beyond_earth
+Table 1 name - planet_fact_sheet
+Table 2 name - planet_ratio_fact_sheet
